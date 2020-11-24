@@ -50,6 +50,22 @@ a {
   text-emphasis: bold;
 }
 
+#content-wrapper {
+  width: 100%;
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+}
+
+#large-column {
+  width: 70%;
+
+}
+
+#small-column {
+  width: 30%;
+}
+
 
 /* .column {
   float: right;
